@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lucusapp/fundamentosdenode#readme",
   "dependencies": {
+    "colors": "^1.4.0",
     "yargs": "^15.1.0"
   }
 }
